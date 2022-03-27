@@ -3,7 +3,7 @@
 Site comercial, desenvolvido para empresa de limpeza e faxina, totalmente personalizado, leve e responsivo.
 O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
-🔗 https://michelfariasazevedo.github.io/soscasalimpa/
+🔗 https://michelfariasazevedo.github.io/sc-soscasalimpa/
 ##
 
 ✔️ Possui:
