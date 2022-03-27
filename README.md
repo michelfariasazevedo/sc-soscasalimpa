@@ -1,5 +1,6 @@
-### Projeto: SOS Casa Limpa 💻
-Site desenvolvido para empresas de limpeza e faxina. Totalmente personalizado, leve e responsivo. O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
+### 📂 Projeto: SOS Casa Limpa 
+Site desenvolvido para empresa de limpeza e faxina, totalmente personalizado, leve e responsivo.
+O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
 🔗 https://michelfariasazevedo.github.io/soscasalimpa/
 ##
