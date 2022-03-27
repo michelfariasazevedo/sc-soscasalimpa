@@ -5,8 +5,8 @@ Site desenvolvido para empresas de limpeza e faxina. Totalmente personalizado, l
 ##
 
 Possui:
-- Template foi desenvolvido em sob o tema: <strong>CleanM4</strong>
-- Linguagens: <strong>HTML5, CSS3 e BOOTSTRAP</strong>;
+- Template foi desenvolvido em sob o tema: <strong>CleanM4</strong>;
+- Linguagens: <strong>HTML5, CSS3, JS e BOOTSTRAP</strong>;
 - Framework/Web Builder: <strong>Mobirise 5.5.2.</strong>
 
 Não possui:
