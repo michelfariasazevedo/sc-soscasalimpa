@@ -1,5 +1,5 @@
-### 📂 Projeto: Site Comercial
-#### SOS Casa Limpa
+### 📂 Projeto: SOS Casa Limpa
+#### Categoria: Site Comercial
 Site comercial, desenvolvido para empresa de limpeza e faxina, totalmente personalizado, leve e responsivo.
 O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
